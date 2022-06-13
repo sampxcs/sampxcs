@@ -1,7 +1,9 @@
-### Hi there, I'm  Ian Rosales 👋
+### Hi there, I'm  Ian👋
 ```JS
   const sampxcs = {
+    fullName: "Ian Samuel Rosales Leon",
     pronouns: "he" | "him",
+    age: 22,
     code: [Javascript, Typescript, HTML, CSS],
     tools: [React, Node, Webpack, Babel, Express, Git],
     software: [Ilustraitor, Phothoshop, Premiere],
