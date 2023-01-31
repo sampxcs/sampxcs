@@ -1,11 +1,11 @@
-### Hi there, I'm  Ian👋
+### Hi there, I'm  Ian Rosales👋
 ```JS
   const sampxcs = {
     fullName: "Ian Samuel Rosales Leon",
     pronouns: "he" | "him",
     age: 22,
     code: [HTML, CSS, JavaScript, TypeScript],
-    tools: [React, NextJS, Redux, GraphQL, Node, Webpack, Babel, Express, Git, Firebase, MongoDB],
+    tools: [React, Redux, GraphQL, NextJS, Node, Express, Git, Firebase, MongoDB, MySQL],
     software: [Lightroom, Ilustraitor, Phothoshop, Premiere, VSCode],
     mission: "Achieve success in all facets of my life through acquired knowledge, will and strength.",
     vision: "I define myself as a person committed to good practices and good work."
