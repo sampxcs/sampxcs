@@ -4,7 +4,7 @@
     fullName: "Ian Samuel Rosales Leon",
     pronouns: "he" | "him",
     age: 22,
-    code: [HTML, CSS, JavaScript, TypeScript],
+    code: [HTML, CSS, JavaScript, TypeScript, Python],
     tools: [React, Redux, GraphQL, NextJS, Node, Express, Git, Firebase, MongoDB, MySQL],
     software: [Lightroom, Ilustraitor, Phothoshop, Premiere, VSCode],
     mission: "Achieve success in all facets of my life through acquired knowledge, will and strength.",
