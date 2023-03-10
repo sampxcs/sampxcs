@@ -5,7 +5,7 @@
     pronouns: "he" | "him",
     age: 22,
     code: [HTML, CSS, JavaScript, TypeScript, Python],
-    tools: [React, Redux, GraphQL, NextJS, Node, Express, Git, Firebase, MongoDB, MySQL],
+    tools: [React, Redux, GraphQL, NextJS, NodeJS, Express, Docker, Firebase, MongoDB, MySQL, PostgreSQL, Redis],
     software: [Lightroom, Ilustraitor, Phothoshop, Premiere, VSCode],
     mission: "Achieve success in all facets of my life through acquired knowledge, will and strength.",
     vision: "I define myself as a person committed to good practices and good work."
